@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<title>Brookvale Bulletin</title>
+<meta charset="utf-8">
+</head>
+<!--Start of News Homepage -->
+<body>
+  <div class="header">
+    <h1>
+    BROOKVALE BULLETIN
+    </h1>
+    <p>
+    your local small town news
+    </p>
+  </div>
+  <!-- Navigation Bar -->
+  <div class="navbar">
+  <a href="#home">Home</a> |
+  <a href="#localNews">Local News</a> |
+  <a href="#living">Living</a> |
+  <a href="#opinions">Opinions</a> |
+  <a href="#meetTheEditors">Meet the Editors</a>
+  </div>
+  <!-- Showcase Bar of Other Top News -->
+  <div class="showcase">
+      <div class="item1">
+        <div class="entry">
+          <a href="" class="thumbnail"></a>
+          <h2>
+            <a href="">Title</a>
+          </h2>
+        </div>
+       <div class="item2">
+        <div class="entry">
+          <a href="" class="thumbnail"></a>
+          <h2>
+            <a href="">Title</a>
+          </h2>
+        </div>
+      <div class="item3">
+        <div class="entry">
+          <a href="" class="thumbnail"></a>
+          <h2>
+            <a href="">Title</a>
+          </h2>
+        </div>
+      <div class="item4">
+        <div class="entry">
+          <a href="" class="thumbnail"></a>
+          <h2>
+            <a href="">Title</a>
+          </h2>
+        </div>
+      </div>
+ <!-- Start of Main News Content -->
+  <div class="newsContent">
+    <article class="Newest Story">
+      <h1 class="Title">
+      Breaking News
+      </h1>
+      <section class="entry">
+        <h2 class="entry-title">
+        <strong>Title of News Story</strong>
+        </h2>
+        <ul class="entry-listing">
+          <li class="listing-item">
+            <div class="content">
+              <div class="entry-photo">
+                <figure class="aligncenter size-large">
+                <!---><img></--->
+                <figcaption> "Caption of photo" </figcaption>
+                </figure>
+              </div>
+              <p>
+              <strong>BROOKVALE</strong>
+              "-- Text of news story"
+              </p>
+              <p>
+              "More text of news story"
+              </p>
+            </div>
+          </li>
+        </ul>
+ <!-- Other News -->
+        <h2 class="has-text-align-center">
+        Other News
+        </h2>
+        <div class="post1">
+          <h2 class="entry-title">
+            <a href="page-link">Entry Title</a>
+          </h2>
+          <div class="entry-summary">
+          <p>
+           "Text describing event"
+          </p>
+          </div>
+        </div>
+        <div class="post2">
+          <h2 class="entry-title">
+            <a href="page-link">Entry Title</a>
+          </h2>
+          <div class="entry-summary">
+          <p>
+           "Text describing event"
+          </p>
+          </div>
+        </div>
+        <div class="post3">
+          <h2 class="entry-title">
+            <a href="page-link">Entry Title</a>
+          </h2>
+          <div class="entry-summary">
+          <p>
+           "Text describing event"
+          </p>
+          </div>
+        </div>
+        <div class="post4">
+          <h2 class="entry-title">
+            <a href="page-link">Entry Title</a>
+          </h2>
+          <div class="entry-summary">
+          <p>
+           "Text describing event"
+          </p>
+          </div>
+        </div>
+      </section>
+    </article>
+  </div>
+  </div>
+</body>
+</html>
